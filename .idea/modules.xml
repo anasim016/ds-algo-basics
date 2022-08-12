@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ds-algo-basics.iml" filepath="$PROJECT_DIR$/ds-algo-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-to-mastery/zero-to-mastery.iml" filepath="$PROJECT_DIR$/zero-to-mastery/zero-to-mastery.iml" />
     </modules>
   </component>
 </project>
