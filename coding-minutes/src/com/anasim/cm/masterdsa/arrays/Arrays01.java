@@ -23,5 +23,13 @@ public class Arrays01 {
 
         int[] fares = {12, 25, 7, 39};
         System.out.println("Length of fares: " + fares.length);
+
+        /**
+         *  In programming languages, the two most prevalent modes of passing arguments to methods are:
+         *  1. passing-by-value
+         *  2. passing-by-reference
+         *
+         *  JAVA IS STRICTLY PASS BY VALUE!
+         */
     }
 }
