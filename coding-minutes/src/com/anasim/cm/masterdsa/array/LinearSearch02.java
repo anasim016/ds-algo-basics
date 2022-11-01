@@ -1,4 +1,4 @@
-package com.anasim.cm.masterdsa.arrays;
+package com.anasim.cm.masterdsa.array;
 
 public class LinearSearch02 {
 

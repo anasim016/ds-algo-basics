@@ -1,4 +1,4 @@
-package com.anasim.cm.masterdsa.arrays;
+package com.anasim.cm.masterdsa.array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
